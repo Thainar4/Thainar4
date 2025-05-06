@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá! Sou Thainara Costa👋
+Tenho 19 anos, sou do interior do Maranhão, e carrego comigo a força de quem acredita que o conhecimento transforma realidades. Já concluí cursos de informática básica e avançada, e desde então venho trilhando minha jornada no mundo da programação.
 
-<!--
-**Thainar4/Thainar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Atualmente estou aprendendo:
 
-Here are some ideas to get you started:
+- `JavaScript`
+- `MySQL` e `SQL`
+- Desenvolvimento Web com `HTML` e `CSS`
+- Estrutura de Dados e Lógica de Programação com `Python`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🚀 Minhas habilidades
+
+- Linguagens: `Python`, `JavaScript` (em aprendizado)
+- Web: `HTML`, `CSS`
+- Ferramentas: `VS Code`, `GitHub`
+
+## 🤝 Soft Skills
+
+- Proatividade e Autonomia  
+- Comprometimento  
+- Organização  
+- Curiosidade e aprendizado contínuo  
+- Empatia e colaboração
+
+    ## 📫 Como me encontrar
+
+- [Meu LinkedIn](www.linkedin.com/in/thainara-costa-paixão-4b65b9307)  
+- E-mail: thainarap944@gmai.com
+
+  
+
