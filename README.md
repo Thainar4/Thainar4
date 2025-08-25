@@ -24,7 +24,7 @@ Tenho 19 anos, sou do interior do Maranhão, e carrego comigo a força de quem a
 
     ## 📫 Como me encontrar
 
-- [Linkeld: Thainara Costa Paixão](www.linkedin.com/in/thainara-costa-paixão)  
+- Linkeld: Thainara Costa Paixão: www.linkedin.com/in/thainara-costa-paixão
 - E-mail: thainarap944@gmai.com
 
   
