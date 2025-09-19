@@ -4,9 +4,8 @@ Tenho 19 anos, atualmente cursando Engenharia de Software e explorando cursos vo
 ## 🌱 Atualmente estou aprendendo:
 
 - `JavaScript`
-- `MySQL` e `SQL`
+- `Power Bi`
 - Desenvolvimento Web com `HTML` e `CSS`
-- Estrutura de Dados e Lógica de Programação com `Python`
 
   ## 🚀 Minhas habilidades
 
