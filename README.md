@@ -1,16 +1,15 @@
-## Olá! Sou Thainara Costa👋
+## Conheça minha jornada Tech <3
+## Olá! Sou Thainara Costa, mas pode me chamar de Thai👋
 Tenho 19 anos, atualmente cursando Engenharia de Software e explorando cursos voltados para desenvolvimento web. Já concluí cursos de informática básica e avançada, e desde então venho trilhando minha jornada no mundo da programação.
 
 ## 🌱 Atualmente estou aprendendo:
 
-- `JavaScript`
-- `Power Bi`
-- Desenvolvimento Web com `HTML` e `CSS`
+- `Explorando tecnologias para dev web - HTML5, CSS3`
+- `Explorando tecnologias para análise de dados - Power BI`
 
   ## 🚀 Minhas habilidades
-
-- Linguagens: `Python`, `JavaScript` (em aprendizado)
-- Web: `HTML`, `CSS`
+- Lógica de programação
+- Tecnologias e Linguagens: `Python - básico`, `HTML5 - básico`, `CSS3- básico`, `Power Bi - básico`, `Java (em aprendizado para trabalho acadêmico`
 - Ferramentas: `VS Code`, `GitHub`
 
 ## 🤝 Soft Skills
