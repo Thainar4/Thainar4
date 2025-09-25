@@ -1,5 +1,5 @@
 ## Conheça minha jornada Tech <3
-## Olá! Sou Thainara Costa, mas pode me chamar de Thai👋
+Olá! Sou Thainara Costa, mas pode me chamar de Thai👋
 Tenho 19 anos, atualmente cursando Engenharia de Software e explorando cursos voltados para desenvolvimento web. Já concluí cursos de informática básica e avançada, e desde então venho trilhando minha jornada no mundo da programação.
 
 ## 🌱 Atualmente estou aprendendo:
